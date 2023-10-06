@@ -36,3 +36,63 @@
     transform: rotate(360deg);
   }
 }
+
+.weatherBg{
+  background:url("https://pngtree.com/freebackground/fantasy-sky-background-h5_420873.html");
+  background-color: aqua;
+  margin: auto;
+  width: 450px;
+  height: 500px;
+
+  justify-content: center;
+}
+.heading{
+  color:red;
+  font-size: 700;
+}
+
+.btn {
+  width: 300px;
+  align-self:center;
+  ;
+}
+.form_control{
+  width: 300px;
+  align-items: center;
+}
+
+.weatherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 500px;
+}
+.wetherCity{
+  
+  align-content: center;
+  font-size: 35px;
+}
+.weatherTemp{
+  margin-top: 2 rem;
+  font-size: 55px;
+  font-weight: 700;
+  font-style: italic;
+  align-self: start;
+}
+.humidity{
+  align-content: center;
+  font-size: 35px;
+
+
+}
+.sunrise{
+  align-content: center;
+  font-size: 35px;
+
+}
+.sunset{
+  align-content: center;
+  font-size: 35px;
+
+
+
+}
